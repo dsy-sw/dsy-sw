@@ -1,7 +1,8 @@
 # Robot Engineer를 꿈꾸는 도시영입니다.👋
 
 Robot에 대한 흥미와 열정으로 개발자를 꿈꾸고 있습니다. 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsy94-sw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+https://search.naver.com/search.naver?ie=UTF-8&sm=whl_hty&query=%5B!%5Bwillianrod%27s+wakatime+stats%5D(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Fwakatime%3Fusername%3Ddsy94-sw)%5D(https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats)
 
 ## 가이드와 프로세스
 
