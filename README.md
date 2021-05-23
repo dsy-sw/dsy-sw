@@ -14,7 +14,7 @@ Robot에 대한 흥미와 열정으로 개발자를 꿈꾸고 있습니다.
 ## Project
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsy94-sw&repo=web_proj.git)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsy94-sw&repo=web_proj)](https://github.com/anuraghazra/github-readme-stats)
 사용자에게 노트북  가이드라인을 제시하는 [Django WebProject](https://github.com/dsy94-sw/web_proj.git)
 
 디바이스 제어 과정으로 습득한 지식을 활용한 [Mini Smart Home](https://github.com/hyeonghak96/iot-project.git)
