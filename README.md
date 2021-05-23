@@ -4,7 +4,7 @@ Robot에 대한 흥미와 열정으로 개발자를 꿈꾸고 있습니다.
 
 
 
-## 가이드와 프로세스
+## Summary
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsy94-sw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsy94-sw&show_icons=true)
