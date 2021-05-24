@@ -53,7 +53,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [객체 기반 디지�
 
         SSH
 
-    - FrameWork / Library
+    - FrameWork & Library
 
         Django
 
@@ -85,7 +85,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [객체 기반 디지�
 
         MySQL / MariaDB / MongoDB
 
-    - FrameWork / Library
+    - FrameWork & Library
 
         pytesseract
 
