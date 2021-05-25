@@ -105,6 +105,6 @@ Robot에 대한 흥미와 열정으로 개발자를 꿈꾸고 있습니다.
 
 ---
 
-✉️ Email : dsy0220@naver.com
+✉️ Email : dsy0220@naver.com & dsy94.sw@gmail.com
 
 git : [https://github.com/dsy94-sw](https://github.com/dsy94-sw)
