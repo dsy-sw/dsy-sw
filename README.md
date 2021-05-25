@@ -64,8 +64,8 @@ Robot에 대한 흥미와 열정으로 개발자를 꿈꾸고 있습니다.
             Arduino / NodeMCU
 
     - OS
-        - Window
-        - Linux(Ubuntu)
+        Window
+        Linux(Ubuntu)
 - Experienced
     - Language
 
