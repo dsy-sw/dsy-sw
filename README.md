@@ -54,7 +54,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
 
          git
 
-         MQTT(message Queuing Telemetry Transprot)
+         Mosquitto
 
          AWS EC2
 
