@@ -7,6 +7,7 @@ Robot에 대한 흥미와 열정으로 미래를 꿈꾸고 있습니다.
 ## Summary
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsy-sw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsy-sw&show_icons=true)
  
 ---
@@ -15,91 +16,91 @@ Robot에 대한 흥미와 열정으로 미래를 꿈꾸고 있습니다.
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsy-sw&repo=web_proj)](https://github.com/anuraghazra/github-readme-stats) 사용자에게 노트북  가이드라인을 제시하는 [Django WebProject](https://github.com/dsy-sw/web_proj.git) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsy-sw&repo=web_proj)](https://github.com/dsy-sw/web_proj.git) 
 
+사용자에게 노트북  가이드라인을 제시하는 [Django WebProject](https://github.com/dsy-sw/web_proj.git) 
 
+<br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonghak96&repo=iot-project)](https://github.com/anuraghazra/github-readme-stats) 디바이스 제어 과정으로 습득한 지식을 활용한 [Mini Smart Home](https://github.com/hyeonghak96/iot-project.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonghak96&repo=iot-project)](https://github.com/hyeonghak96/iot-project.git)
 
+디바이스 제어 과정으로 습득한 지식을 활용한 [Mini Smart Home](https://github.com/hyeonghak96/iot-project.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JFusionProject&repo=IoT_code)](https://github.com/anuraghazra/github-readme-stats) AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 디지털 사이니지 타겟팅 광고](https://github.com/JFusionProject/IoT_code)
+<br><br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JFusionProject&repo=IoT_code)](https://github.com/JFusionProject/IoT_code)
+
+AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 디지털 사이니지 타겟팅 광고](https://github.com/JFusionProject/IoT_code)
+<br>
 ## Tech Stack
 
 ---
 
-- ⚒️ Available
-    - Language
+### ⚒️ Available
+<br>
+ 
+ 
+   >- Language
 
-        Python
+         Python
+ 
+         C++
+        
+         Kotlin
 
-        C++
+   >- Tool
 
-    - Tool
+         Visual Studio Code
 
-        Visual Studio Code
+         git
 
-        git
+         MQTT(message Queuing Telemetry Transprot)
 
-        MQTT(message Queuing Telemetry Transprot)
+         AWS EC2
 
-        AWS EC2
+         Samba
 
-        Samba
+         SSH
+        
+         Android Studio
+        
+         MySQL / MariaDB / MongoDB
 
-        SSH
+   >- FrameWork & Library
 
-    - FrameWork & Library
+         Django
 
-        Django
+         openCV
 
-        openCV
+         GPIO-ZERO
+        
+         Object Detection API
+         
+         pytesseract
+        
 
-        GPIO-ZERO
+   >- 📱 Device
 
-        - 📱 Device
+           Raspberry Pi4
 
-            Raspberry Pi4
+           Arduino / NodeMCU
 
-            Arduino / NodeMCU
+   >- OS
+    
+         Window
+        
+         Linux(Ubuntu)
 
-    - OS
-        Window
-        Linux(Ubuntu)
-- Experienced
-    - Language
 
-        Kotlin
 
-        JavaScript
+<br>
 
-        HTML(Markup language)
 
-    - Tool
+- Studying
 
-        Android Studio
+      🐢ROS/ROS2
 
-        MySQL / MariaDB / MongoDB
-
-    - FrameWork & Library
-
-        pytesseract
-
-        Rest API
-
-        beautiful soup
-
-        Flask
-
-        Object Detection API
-
-        pyAudio
-
-- Progressing
-
-    🐢ROS/ROS2
-
-    openCV
+      openCV
 
 ## 📞 Contact
 
