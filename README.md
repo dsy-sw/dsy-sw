@@ -103,7 +103,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
 
 - Learning
 
-      🐢ROS/ROS2
+      🐢[ROS/ROS2링크](https://www.notion.so/ROS2-Framework-b4e78c4e7c144c8492c1ec0eb3cab66a)
 
       openCV
 
