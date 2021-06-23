@@ -1,6 +1,6 @@
-# Robot Engineer를 꿈꾸는 도시영입니다.👋
+# Automatic Driving & Robot을 꿈꾸는 도시영입니다.👋
 
-Robot에 대한 흥미와 열정으로 미래를 준비하고 있습니다. 
+Automatic Driving & Robot에 대한 흥미와 열정으로 미래를 준비하고 있습니다. 
 
 
 
@@ -101,7 +101,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
 <br>
 
 
-- Studying
+- Learning
 
       🐢ROS/ROS2
 
