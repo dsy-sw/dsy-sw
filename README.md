@@ -10,6 +10,9 @@ Automatic Driving & Robot에 대한 흥미와 열정으로 미래를 준비하�
  
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsy-sw&show_icons=true)
  
+ <br><br>
+
+
 ---
 
 ## Project
@@ -26,7 +29,11 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsy-sw&repo=web_proj)](https://github.com/dsy-sw/web_proj.git) 
 
 사용자에게 노트북  가이드라인을 제시하는 [Django WebProject](https://github.com/dsy-sw/web_proj.git) 
-<br>
+
+<br><br>
+
+---
+
 ## Tech Stack
 
 ---
@@ -110,7 +117,11 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
      🐢[ROS/ROS2링크](https://www.notion.so/ROS2-Framework-b4e78c4e7c144c8492c1ec0eb3cab66a)
 
      openCV
+     
+     <br><br>
 
+
+---
 ## 📞 Contact
 
 ---
