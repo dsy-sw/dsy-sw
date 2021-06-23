@@ -42,6 +42,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
         C++
         
         Kotlin
+<br>
 
    - Tool
 
@@ -60,6 +61,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
         Android Studio
         
         MySQL / MariaDB / MongoDB
+<br>
 
    - FrameWork & Library
 
@@ -82,13 +84,15 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
         Open API
          
         Request
-        
+<br>
+
 
    - 📱 Device
 
         Raspberry Pi4
 
         Arduino / NodeMCU
+<br>
 
    - OS
     
