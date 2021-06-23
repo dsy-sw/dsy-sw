@@ -35,66 +35,66 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
 <br>
  
  
-   >- Language
+   - Language
 
-         Python
+        Python
  
-         C++
+        C++
         
-         Kotlin
+        Kotlin
 
-   >- Tool
+   - Tool
 
-         Visual Studio Code
+        Visual Studio Code
 
-         git
+        git
 
-         Mosquitto
+        Mosquitto
 
-         AWS EC2
+        AWS EC2
 
-         Samba
+        Samba
 
-         SSH
+        SSH
         
-         Android Studio
+        Android Studio
         
-         MySQL / MariaDB / MongoDB
+        MySQL / MariaDB / MongoDB
 
-   >- FrameWork & Library
+   - FrameWork & Library
 
-         Django
+        Django
 
-         openCV
+        openCV
 
-         GPIO-ZERO
+        GPIO-ZERO
         
-         Object Detection API
+        Object Detection API
          
-         pytesseract
+        pytesseract
          
-         MQTT
+        MQTT
          
-         Socket
+        Socket
          
-         Json
+        Json
          
-         Open API
+        Open API
          
-         Request
+        Request
         
 
-   >- 📱 Device
+   - 📱 Device
 
-           Raspberry Pi4
+        Raspberry Pi4
 
-           Arduino / NodeMCU
+        Arduino / NodeMCU
 
-   >- OS
+   - OS
     
-         Window
+        Window
         
-         Linux(Ubuntu)
+        Linux(Ubuntu)
 
 
 
@@ -103,9 +103,9 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
 
 - Learning
 
-      🐢[ROS/ROS2링크](https://www.notion.so/ROS2-Framework-b4e78c4e7c144c8492c1ec0eb3cab66a)
+     🐢[ROS/ROS2링크](https://www.notion.so/ROS2-Framework-b4e78c4e7c144c8492c1ec0eb3cab66a)
 
-      openCV
+     openCV
 
 ## 📞 Contact
 
