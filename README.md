@@ -129,3 +129,5 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
 ✉️ Email : dsy0220@naver.com & dsy94.sw@gmail.com
 
 git : [https://github.com/dsy94-sw](https://github.com/dsy94-sw)
+
+ROS&ROS2 : https://www.notion.so/ROS2-Framework-b4e78c4e7c144c8492c1ec0eb3cab66a
