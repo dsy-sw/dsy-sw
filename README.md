@@ -1,4 +1,4 @@
-# Automatic Driving & Robot Enginner을 꿈꾸는 도시영입니다.👋
+# Autonomous Driving Vehicle and Robot을 꿈꾸는 도시영입니다.👋
 
 Automatic Driving & Robot에 대한 흥미와 열정으로 미래를 준비하고 있습니다. 
 
