@@ -22,9 +22,9 @@ Automatic Driving & Robot에 대한 흥미와 열정으로 미래를 준비하�
 
 AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 디지털 사이니지 타겟팅 광고](https://github.com/JFusionProject/IoT_code)
 <br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonghak96&repo=iot-project)](https://github.com/hyeonghak96/iot-project.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsy-sw&repo=iot-project)](https://github.com/dsy-sw/iot-project)
 
-디바이스 제어 과정으로 습득한 지식을 활용한 [Mini Smart Home](https://github.com/hyeonghak96/iot-project.git)
+디바이스 제어 과정으로 습득한 지식을 활용한 [Mini Smart Home](https://github.com/dsy-sw/iot-project)
 <br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsy-sw&repo=web_proj)](https://github.com/dsy-sw/web_proj.git) 
 
