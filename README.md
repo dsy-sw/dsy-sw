@@ -47,8 +47,7 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
         Python
  
         C++
-        
-        Kotlin
+
 <br>
 
    - Tool
@@ -56,56 +55,46 @@ AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 
         Visual Studio Code
 
         git
+        
+        Anaconda
 
         Mosquitto
-
-        AWS EC2
 
         Samba
 
         SSH
         
-        Android Studio
-        
-        MySQL / MariaDB / MongoDB
 <br>
 
    - FrameWork & Library
 
-        Django
-
-        openCV
-
-        GPIO-ZERO
+        Apollo
         
-        Object Detection API
+        ROS/ROS2
+        
+        openCV
          
         pytesseract
-         
-        MQTT
-         
-        Socket
-         
-        Json
-         
-        Open API
-         
-        Request
+
 <br>
 
 
    - 📱 Device
 
         Raspberry Pi4
+        
+        IPC
 
         Arduino / NodeMCU
+        
+        VCU
 <br>
 
    - OS
     
         Window
         
-        Linux(Ubuntu)
+        Linux(Ubuntu 18.04)
 
 
 
