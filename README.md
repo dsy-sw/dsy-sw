@@ -1,6 +1,6 @@
 # Autonomous Driving Vehicle and Robot 개발자 도시영입니다.👋
 
-Autonomous Driving & Robot에 대한 흥미와 열정으로 미래를 준비하고 있습니다. 
+Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하고 있습니다. 
 
 ---
 
