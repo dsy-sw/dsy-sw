@@ -28,7 +28,7 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 <br>
 
 
-- AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 디지털 사이니지 타겟팅 광고](https://github.com/JFusionProject/IoT_code) (2021.04 ~ 2021.06)
+- AI, IoT, Bigdata, Cloud 각 분야의 기능을 활용한 [얼굴 인식 기반 디지털 사이니지 타겟팅 광고](https://github.com/JFusionProject/IoT_code)(2021.04 ~ 2021.06)
 
 [![Recommend AD](https://github-readme-stats.vercel.app/api/pin/?username=JFusionProject&repo=IoT_code)](https://github.com/JFusionProject/IoT_code)
 
@@ -56,16 +56,12 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 
 - #### OS
 
-    ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=windows)
-    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FCC624?style=flat-square&logo=ubuntu&logoColor=000000)
-    ![linux](https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
+    ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=windows) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FCC624?style=flat-square&logo=ubuntu&logoColor=000000) ![linux](https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=Linux&logoColor=000000)
 
 - #### Language
 
 
-    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-    ![C/C++](http://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=cplusplus)
-    ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![C/C++](http://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=cplusplus) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
 
 
@@ -73,16 +69,12 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 
     ##### **Common**
 
-    ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-    ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github)
-    ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda)
+    ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda)
 
      
 
     ##### **Autonomous Driving**
-    ![Apollo](http://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=Apollo-GraphQL)
-    ![OpenCV](http://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=opencv)
-    ![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
+    ![Apollo](http://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=Apollo-GraphQL) ![OpenCV](http://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=opencv) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
     ![Qt](http://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=ffffff)
 
     ##### **Robot**
@@ -92,10 +84,7 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
     
     ##### **IoT**
     
-    ![Raspberry Pi](http://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=raspberrypi)
-    ![Arduino](http://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=ffffff)
-    ![Node MCU](http://img.shields.io/badge/-Raspberry_Pi-00979D?style=flat-square&logo=raspberrypi&logoColor=raspberrypi)
-    ![Mosquitto](http://img.shields.io/badge/-Mosquitto-3C5280?style=flat-square&logo=Eclipse-Mosquitto&logoColor=Eclipse-Mosquitto)
+    ![Raspberry Pi](http://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=raspberrypi) ![Arduino](http://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=ffffff) ![Node MCU](http://img.shields.io/badge/-Raspberry_Pi-00979D?style=flat-square&logo=raspberrypi&logoColor=raspberrypi) ![Mosquitto](http://img.shields.io/badge/-Mosquitto-3C5280?style=flat-square&logo=Eclipse-Mosquitto&logoColor=Eclipse-Mosquitto)
 
 
 ### Learning
