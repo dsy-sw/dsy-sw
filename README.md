@@ -19,11 +19,14 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 
 ---
 
-- Home IoT Sub Proj(2022.05 ~ updating)
+- Home IoT Sub Proj(2022.05 ~ ing)
+
+[![IoT Sub Project](https://github-readme-stats.vercel.app/api/pin/?username=umsSubProject&repo=IoT)](https://github.com/umsSubProject/IoT)
+
 <br>
 
 
-- Autonomous Post Office Proj(2021.08 ~ 2022.04)
+- Autonomous Post Office Proj(2021.08 ~ ing)
 
 <br>
 
