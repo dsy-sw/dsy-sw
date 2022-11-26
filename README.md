@@ -26,7 +26,7 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 
 - Home IoT Sub Proj(2022.05 ~ ing)
 
-[![IoT Sub Project](https://github-readme-stats.vercel.app/api/pin/?username=umsSubProject&repo=IoT)](https://github.com/umsSubProject/IoT)
+[![IoT Sub Project](https://github-readme-stats.vercel.app/api/pin/?username=umsSubProject&repo=IoT)](https://github.com/umsSubProject/IoT)  (suspension)
 
 <br>
 
@@ -99,8 +99,6 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 ---
 ## Ongoing Project
 - - Autonomous(level 4) driving and collision Proj (Nondisclosure...) - [2022.07 ~ updating]
-
-- Home IoT(IoT) - [22.05 ~ ] (suspension)
 ---
 ​    
 
