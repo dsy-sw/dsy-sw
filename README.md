@@ -19,7 +19,7 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 
 ---
 
-- Autonomous driving collision Proj(2022.07 ~ ing)
+- Autonomous driving collision Proj(2022.07 ~ ing) (Nondisclosure...)
 
 <br>
 
@@ -82,12 +82,7 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
      
 
     ##### **Autonomous Driving**
-    ![Apollo](http://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=Apollo-GraphQL) ![OpenCV](http://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=opencv) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
-    ![Qt](http://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=ffffff)
-
-    ##### **Robot**
-    
-    ![ROS/ROS2](http://img.shields.io/badge/-ROS/ROS2-22314E?style=flat-square&logo=ros&logoColor=ros)
+    ![Apollo](http://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=Apollo-GraphQL) ![OpenCV](http://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=opencv) ![Qt](http://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=ffffff)
     
     
     ##### **IoT**
@@ -97,15 +92,15 @@ Autonomous Driving & Robot에 대한 흥미와 열정으로 하나씩 준비하�
 
 ### Learning
     
-- 🐢[ROS/ROS2](https://www.notion.so/ROS2-Framework-b4e78c4e7c144c8492c1ec0eb3cab66a)
+- 🐢 ![ROS/ROS2](http://img.shields.io/badge/-ROS/ROS2-22314E?style=flat-square&logo=ros&logoColor=ros)[ROS/ROS2](https://www.notion.so/ROS2-Framework-b4e78c4e7c144c8492c1ec0eb3cab66a)
 
 - Perception
 
 ---
 ## Ongoing Project
-- Solati(Autonomous Driving) - [21.08 ~ updating]
+- - Autonomous(level 4) driving and collision Proj (Nondisclosure...) - [2022.07 ~ updating]
 
-- Home IoT(IoT) - [22.05 ~ updating]
+- Home IoT(IoT) - [22.05 ~ ] (suspension)
 ---
 ​    
 
