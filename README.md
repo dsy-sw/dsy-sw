@@ -1,6 +1,6 @@
 # Autonomous Driving Vehicle 개발자 도시영입니다.👋
 
-Autonomous Driving Vehicle에 대한 흥미와 열정으로 하나씩 준비하고 있습니다. 
+Autonomous Driving Vehicle에 대한 흥미와 열정으로 기초부터 하나씩 준비하고 있습니다. 
 
 ---
 
