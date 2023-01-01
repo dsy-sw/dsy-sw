@@ -26,7 +26,7 @@ Autonomous Driving Vehicle에 대한 흥미와 열정으로 기초부터 하나�
 <br>
 
 
-### Side
+### Toy & Side
 
 - Sensor Calibration Tool(2022.11 ~ ing)
 
@@ -34,7 +34,7 @@ Autonomous Driving Vehicle에 대한 흥미와 열정으로 기초부터 하나�
 <br>
 - Home IoT Side Proj(2022.05 ~ ) (pause...)
 
-[![IoT Side Project](https://github-readme-stats.vercel.app/api/pin/?username=umsSubProject&repo=IoT)](https://github.com/umsSubProject/IoT) 
+[![IoT Side Project](https://github-readme-stats.vercel.app/api/pin/?username=dsy-sw&repo=home-iot)]([https://github.com/umsSubProject/IoT](https://github.com/dsy-sw/home-iot))
 
 <br>
 
